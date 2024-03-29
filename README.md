@@ -2,7 +2,8 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Andres and I'm a passionate front-end developer from Argentina. I like to create innovative things that solve problems. I also like to help others and enjoy the whole process.</h2>
+<h2 align="left">Hello everyone! I'm Andres, a dedicated front-end developer from Argentina. I thrive on creating innovative solutions to real-world problems. Beyond coding, I find joy in helping others and enjoying every step of the development journey.</h2>
+<h2>Let's build something amazing together!</h2>
 
 ###
 
